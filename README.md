@@ -3,8 +3,14 @@ Welcome to the Deci Studios Github page. My name is Deci, and I am passionate ab
 For more info about me, check out my <a href="https://decidev.co.uk" target="_blank">Website</a>.
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
+```rust
+From: 10 February 2024 - To: 03 May 2024
+
+Total Time: 34 hrs 43 mins
+
+Rust       32 hrs 28 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.98 %
+Python     58 mins         >------------------------   02.78 %
+Other      34 mins         -------------------------   01.64 %
 ```
 
 <!--END_SECTION:waka-->
