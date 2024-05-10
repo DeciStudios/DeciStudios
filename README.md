@@ -4,14 +4,14 @@ For more info about me, check out my <a href="https://decidev.co.uk" target="_bl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 February 2024 - To: 07 May 2024
+From: 10 February 2024 - To: 08 May 2024
 
-Total Time: 47 hrs 30 mins
+Total Time: 49 hrs 16 mins
 
-Rust       44 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.62 %
-TOML       1 hr 7 mins     >------------------------   02.33 %
-Python     58 mins         >------------------------   02.04 %
-Other      34 mins         -------------------------   01.21 %
+Rust       45 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.22 %
+TOML       1 hr 26 mins    >------------------------   02.90 %
+Python     58 mins         -------------------------   01.97 %
+Other      34 mins         -------------------------   01.17 %
 ```
 
 <!--END_SECTION:waka-->
