@@ -4,17 +4,17 @@ For more info about me, check out my <a href="https://decidev.co.uk" target="_bl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 February 2024 - To: 28 February 2025
+From: 10 February 2024 - To: 01 March 2025
 
-Total Time: 334 hrs 56 mins
+Total Time: 335 hrs 43 mins
 
-Rust          162 hrs 45 mins >>>>>>>>>>>>-------------   47.62 %
-TypeScript    40 hrs 21 mins  >>>----------------------   11.81 %
-Lua           32 hrs 40 mins  >>-----------------------   09.56 %
-Odin          22 hrs 53 mins  >>-----------------------   06.70 %
-PHP           20 hrs 41 mins  >>-----------------------   06.05 %
-JavaScript    12 hrs 43 mins  >------------------------   03.72 %
-HTML          12 hrs 8 mins   >------------------------   03.55 %
+Rust          162 hrs 45 mins >>>>>>>>>>>>-------------   47.51 %
+TypeScript    40 hrs 21 mins  >>>----------------------   11.78 %
+Lua           32 hrs 42 mins  >>-----------------------   09.55 %
+Odin          22 hrs 53 mins  >>-----------------------   06.68 %
+PHP           20 hrs 41 mins  >>-----------------------   06.04 %
+JavaScript    12 hrs 49 mins  >------------------------   03.74 %
+HTML          12 hrs 21 mins  >------------------------   03.61 %
 Other         6 hrs 52 mins   >------------------------   02.01 %
 ```
 
