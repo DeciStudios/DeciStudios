@@ -4,7 +4,7 @@ For more info about me, check out my <a href="https://decidev.co.uk" target="_bl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 February 2024 - To: 05 April 2025
+From: 10 February 2024 - To: 06 April 2025
 
 Total Time: 358 hrs 40 mins
 
