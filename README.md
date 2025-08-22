@@ -4,9 +4,9 @@ For more info about me, check out my <a href="https://decidev.co.uk" target="_bl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 February 2024 - To: 19 August 2025
+From: 10 February 2024 - To: 20 August 2025
 
-Total Time: 394 hrs 2 mins
+Total Time: 394 hrs 3 mins
 
 Rust              162 hrs 45 mins >>>>>>>>>>---------------   40.42 %
 PHP               49 hrs 13 mins  >>>----------------------   12.23 %
