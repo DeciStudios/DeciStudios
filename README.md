@@ -4,7 +4,7 @@ For more info about me, check out my <a href="https://decidev.co.uk" target="_bl
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 February 2024 - To: 06 September 2025
+From: 10 February 2024 - To: 07 September 2025
 
 Total Time: 395 hrs 27 mins
 
@@ -15,7 +15,7 @@ Lua               42 hrs 31 mins  >>>----------------------   10.52 %
 Odin              24 hrs 17 mins  >>-----------------------   06.01 %
 JavaScript        13 hrs 26 mins  >------------------------   03.33 %
 HTML              12 hrs 43 mins  >------------------------   03.15 %
-Other             8 hrs 36 mins   >------------------------   02.13 %
+Other             8 hrs 37 mins   >------------------------   02.13 %
 ```
 
 <!--END_SECTION:waka-->
